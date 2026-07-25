@@ -101,9 +101,9 @@ Date        Time      City   Country  Temperature (°C)  Humidity (%)  Pressure 
 
 ## Author
 
-Osama Suliman
+Abdulaziz Bantan
 Data Science Student — Umm Al-Qura University
-[GitHub: os7i](https://github.com/os7i)
+[GitHub: c6uvl](https://github.com/c6uvl)
 ---
 
 ## License
